@@ -1,8 +1,35 @@
 
-⚠️ All project, files & documentation, architecture, images, labs, designs and all showcased work featured here are original creations fully developed and owned by Brandon Stevenson.
+Intellectual Property & Portfolio Usage Notice
 
-These works are shared strictly for professional demonstration and portfolio purposes to showcase web development, software programming & scripting, IT Operations & Documentation, Network administration & design, and other relevant engineering capabilities. The code, design assets, and concepts presented are the result of original development efforts, in-depth research, creative problem-solving, and system architecture authored by me.
+© 2026 Brandon Stevenson. All Rights Reserved.
 
-Permission to view the live application and repository links is granted only for evaluation and demonstration by prospective employers, clients, or collaborators. Any commercial, educational, or derivative use of this material without prior consent is not allowed.
+All projects, source code, technical documentation, standard operating procedures (SOPs), network architectures, infrastructure designs, automation scripts, visual assets, and other materials presented throughout this portfolio represent original work developed, documented, or independently implemented by Brandon Stevenson, unless otherwise credited.
 
-© 2026 Brandon Stevenson. All Rights Reserved
+This portfolio serves as a professional demonstration of technical knowledge, practical experience, engineering methodology, and problem-solving capabilities across multiple disciplines, including:
+
+IT Infrastructure & Systems Administration
+
+Enterprise Networking & Network Architecture
+
+Cloud Computing & Infrastructure Engineering
+
+Software Development & Automation
+
+Technical Documentation & Standard Operating Procedures
+
+Web Development & Application Design
+
+Projects may incorporate industry-standard technologies, vendor-provided software, publicly documented methodologies, and third-party dependencies, which remain the property of their respective owners.
+
+Ownership & Authorized Use
+
+Original project implementations, custom source code, documentation, architectural designs, and associated creative materials are protected under applicable intellectual property laws.
+
+These materials are made publicly accessible for professional review, technical evaluation, and portfolio demonstration by prospective employers, clients, recruiters, and collaborators.
+
+Unless otherwise specified by an individual repository's license, no permission is granted to reproduce, redistribute, commercially exploit, modify, or create derivative works from proprietary original materials without prior written authorization.
+
+Brandon Stevenson
+IT Infrastructure | Systems Administration | Networking | Software Development
+
+© 2026 Brandon Stevenson. All Rights Reserved.
